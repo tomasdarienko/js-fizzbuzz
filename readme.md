@@ -18,7 +18,13 @@ Crea un container nel DOM , aggiungendo (attraverso la funzione `appendChild()` 
 
 
 **1**
-?????????????XD
+stampare in console i numer da 1 a 100
+**2**
+selezionare i multipli di 3 ed assegnarli fizz
+**3**
+selezionare i multipli di 5 ed assegnarli buzz
+**4**
+selezionare i multipli di 5 e di 3 ed assegnarli fizzbuzz
 
 
 
